@@ -25,7 +25,6 @@ function MealsList({items}) {
             />
         </View>
     );
-
 }
 
 export default MealsList;

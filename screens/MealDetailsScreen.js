@@ -57,9 +57,6 @@ export default function MealDetailsScreen ({route, navigation})  {
                         <List data={selectedMeal.steps} />
                     </View>
                 </View>
-
-
-
            </ScrollView>
 }
 
